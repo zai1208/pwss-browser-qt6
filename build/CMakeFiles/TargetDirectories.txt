@@ -1,0 +1,5 @@
+/home/zai1208/pwss-browser-qt6/build/CMakeFiles/pwss-browser-qt6.dir
+/home/zai1208/pwss-browser-qt6/build/CMakeFiles/edit_cache.dir
+/home/zai1208/pwss-browser-qt6/build/CMakeFiles/rebuild_cache.dir
+/home/zai1208/pwss-browser-qt6/build/CMakeFiles/pwss-browser-qt6_autogen_timestamp_deps.dir
+/home/zai1208/pwss-browser-qt6/build/CMakeFiles/pwss-browser-qt6_autogen.dir
