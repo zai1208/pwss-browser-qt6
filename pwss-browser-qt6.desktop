@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PWSS Browser
+Comment=Sovereign decentralized cryptographic web browser
+Exec=/home/zai1208/.local/bin/pwss-browser-qt6
+Icon=pwss-browser
+Terminal=false
+Categories=Network;WebBrowser;Utility;
+Keywords=pwss;browser;sovereign;crypto;pgp;
+StartupNotify=true
