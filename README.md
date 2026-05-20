@@ -2,7 +2,7 @@
 
 ## Installation instruction
 
-## Arch Linux
+### Arch Linux
 ```bash
 yay -S pwss-browser-qt6-git
 ```
