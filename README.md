@@ -1,4 +1,6 @@
 # pwss-browser-qt6
+## Description
+This is a browser for PWSS (see https://github.com/zai1208/pwss) using Qt6 as a frontend
 
 ## Installation instruction
 
